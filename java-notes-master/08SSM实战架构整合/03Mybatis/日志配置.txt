@@ -1,0 +1,6 @@
+pom需要的依赖：
+log4j
+
+slf4j-api
+slf4j-simple
+jaxen
